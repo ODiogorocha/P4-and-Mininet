@@ -55,8 +55,14 @@ P4-and-Mininet-main/
   - Mininet: http://mininet.org/
   - BMv2 + P4: https://github.com/p4lang/behavioral-model
 
+## Links Uteis 
 
+- VirtualBox: https://www.virtualbox.org/
+- Imagem para a VM: https://drive.google.com/file/d/186nVLMGVIJkjiBdjpV6OakdX5gugZqCt/view
 
+## Repositorios Uteis 
 
+[Perfil do Henrique no GitHub](https://github.com/HenriqueBBrum)
+- DINT:https://github.com/HenriqueBBrum/DINT
 
-Este repositório é destinado exclusivamente para fins educacionais. Todos os documentos originais pertencem aos seus respectivos autores e estão sendo redistribuídos aqui apenas com finalidade acadêmica.
+[P4 Tutorial](https://github.com/jafingerhut/p4-guide/tree/master)
